@@ -43,8 +43,7 @@ Databases:    MongoDB, PostgreSQL, MySQL
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-niraj--sachania-181717?style=for-the-badge&logo=github)](https://github.com/niraj-sachania)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niraj-sachania)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:niraj.sachania@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niraj-sachania)
 
 </div>
 
